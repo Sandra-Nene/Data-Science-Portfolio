@@ -1,6 +1,6 @@
-# Data-Science-Portfolio
-## this is 2
-### size of the text
+# Data Science CV
+## Work Experience
+## Education
+## Projects
 
-* itallics*
-  __bold__
+
