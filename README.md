@@ -3,4 +3,4 @@
 ### size of the text
 
 * itallics*
-  ** bold**
+  __bold__
