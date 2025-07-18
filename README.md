@@ -1,5 +1,7 @@
-![My Banner](<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c8e2ef31-2d9c-4608-81b0-04fc1b463797" />)
- 
+
+ <p align="center">
+  <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c8e2ef31-2d9c-4608-81b0-04fc1b463797" />
+</p>
  
  # Hi there👋😊
 I'm Sandra, a Junior Data Scientist with a strong passion for uncovering insights from data and solving real-world problems through analytics and machine learning.
