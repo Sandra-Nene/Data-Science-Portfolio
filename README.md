@@ -11,7 +11,7 @@ My background includes hands-on experience with Python, pandas, NumPy, scikit-le
 # 🛠️ Skills & Tools
 🔹 **Programming:** Python, SQL  
 🔹 **Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-🔹 **ML Techniques:** Regression, Classification, Clustering 
+🔹 **ML Techniques:** Regression, Classification, Clustering␣␣
 🔹 **Tools:** Jupyter Notebooks, VS Code, GitHub  
 🔹 **Currently Learning:** Natural Language Processing, Streamlit
 
