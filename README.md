@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/c8e2ef31-2d9c-4608-81b0-04fc1b463797" />
+  <img width="700" height="853" alt="image" src="https://github.com/user-attachments/assets/c8e2ef31-2d9c-4608-81b0-04fc1b463797" />
 </p>
  
  # Hi there👋😊
