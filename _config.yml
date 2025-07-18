@@ -1,5 +1,6 @@
 title: Sandra Uzoma
 logo: /assets/machine-learning.jpg
-#description: Text below the image
-show_downloads : true
+description: >-
+  Welcome to my Data Science Portfolio.
+show_downloads: true
 theme: jekyll-theme-minimal
