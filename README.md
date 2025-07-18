@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img width="700" height="853" alt="image" src="https://github.com/user-attachments/assets/c8e2ef31-2d9c-4608-81b0-04fc1b463797" />
+ <img width = "700" height = "853" alt= "Sandra Uzoma" src ="https://cdn.pixabay.com/photo/2019/04/15/12/09/machine-learning-4129175_1280.jpg"
 </p>
  
  # Hi there👋😊
