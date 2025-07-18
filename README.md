@@ -1,5 +1,5 @@
  # Hi there👋😊
-I'm Sandra I'm a Junior Data Scientist with a strong passion for uncovering insights from data and solving real-world problems through analytics and machine learning.
+I'm Sandra, a Junior Data Scientist with a strong passion for uncovering insights from data and solving real-world problems through analytics and machine learning.
 My background includes hands-on experience with Python, pandas, NumPy, scikit-learn, and data visualization tools like Matplotlib and Seaborn.
 
 # ✨ What I do ✨ 
