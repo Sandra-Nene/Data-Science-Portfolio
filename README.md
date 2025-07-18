@@ -4,6 +4,7 @@ My background includes hands-on experience with Python, pandas, NumPy, scikit-le
 
 # ✨ What I do ✨ 
 🔵 Clean, explore, and analyse structured and unstructured data
+
 🔵 Visualise information for clearer decision-making
 🔵 Continuously learn and experiment with new tools and techniques 
 🔵 Currently exploring on buidling skills on NLP and time series forecasting
